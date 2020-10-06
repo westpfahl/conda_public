@@ -1,0 +1,20 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask
+  - sklearn
+  - seaborn
+  - pytorch
+  - tensorflow
+  - pickle
+  - _pickle
+  - json
